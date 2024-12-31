@@ -1,0 +1,12 @@
+
+								*** ÒÀÁËÈÖÀ ÈÄÅÍÒÈÔÈÊÀÒÎÐÎÂ ***
+
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	ÒÈÏ:			|ÈÄÅÍÒÈÔÈÊÀÒÎÐ:		|ÒÈÏ ÄÀÍÍÛÕ:	 |¹ Â ÒË		|ÇÍÀ×ÅÍÈÅ:
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	FUNCTION		|comp				|BOOLEAN		 |0
+	FUNCTION		|copy				|STRING			 |0
+	FUNCTION		|concat				|STRING			 |0
+	LITERAL			|L4				|STRING			 |4			|"Hui"
+	LITERAL			|L8				|ARINTEGER		 |8			|0
+——————————————————————————————————————————————————————————————————————————————————————————————————

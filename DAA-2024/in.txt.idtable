@@ -1,0 +1,34 @@
+
+								*** ÒÀÁËÈÖÀ ÈÄÅÍÒÈÔÈÊÀÒÎÐÎÂ ***
+
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	ÒÈÏ:			|ÈÄÅÍÒÈÔÈÊÀÒÎÐ:		|ÒÈÏ ÄÀÍÍÛÕ:	 |¹ Â ÒË		|ÇÍÀ×ÅÍÈÅ:
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	FUNCTION		|comp				|BOOLEAN		 |0
+	FUNCTION		|copy				|STRING			 |0
+	FUNCTION		|concat				|STRING			 |0
+	FUNCTION		|fn				|ARINTEGER		 |2
+	PARAMETER		|sos_fn			|ARINTEGER		 |5				|0
+	VARIABLE		|sum_fn			|INTEGER		 |10			|0
+	VARIABLE		|t_Program			|BOOLEAN		 |27			|0
+	LITERAL			|L31 				|BOOLEAN		 |31			|1
+	LITERAL			|L40				|STRING			 |40			|"Zdarov"
+	VARIABLE		|e_Program			|INTEGER		 |47			|0
+	LITERAL			|L51				|ARINTEGER		 |51			|15
+	LITERAL			|L53				|ARINTEGER		 |53			|5
+	VARIABLE		|x_Program			|INTEGER		 |57			|0
+	LITERAL			|L67				|ARINTEGER		 |67			|4
+	LITERAL			|L71				|ARINTEGER		 |71			|16
+	VARIABLE		|str1_Program		|STRING			 |83			| 
+	VARIABLE		|str2_Program		|STRING			 |87			| 
+	LITERAL			|L91				|STRING			 |91			|"strike111"
+	LITERAL			|L95				|STRING			 |95			|"stroke"
+	VARIABLE		|str3_Program		|STRING			 |99			| 
+	VARIABLE		|f_Program			|BOOLEAN		 |131			|0
+	VARIABLE		|y_Program			|BOOLEAN		 |149			|0
+	VARIABLE		|s_Program			|INTEGER		 |162			|0
+	LITERAL			|L166				|ARINTEGER		 |166			|7
+	VARIABLE		|eig_Program			|INTEGER		 |191			|0
+	LITERAL			|L195				|ARINTEGER		 |195			|52
+	LITERAL			|L203				|ARINTEGER		 |203			|0
+——————————————————————————————————————————————————————————————————————————————————————————————————

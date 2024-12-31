@@ -1,0 +1,35 @@
+
+								*** ÒÀÁËÈÖÀ ÈÄÅÍÒÈÔÈÊÀÒÎÐÎÂ ***
+
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	ÒÈÏ:			|ÈÄÅÍÒÈÔÈÊÀÒÎÐ:		|ÒÈÏ ÄÀÍÍÛÕ:	 |¹ Â ÒË		|ÇÍÀ×ÅÍÈÅ:
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	FUNCTION		|comp				|BOOLEAN		 |0
+	FUNCTION		|copy				|STRING			 |0
+	FUNCTION		|concat				|STRING			 |0
+	FUNCTION		|fn				|ARINTEGER		 |2
+	PARAMETER		|sos_fn			|ARINTEGER		 |5				|0
+	VARIABLE		|sum_fn			|INTEGER		 |10			|0
+	VARIABLE		|t_Program			|BOOLEAN		 |27			|0
+	LITERAL			|L31 				|BOOLEAN		 |31			|1
+	LITERAL			|L40				|STRING			 |40			|"Arifmetika"
+	VARIABLE		|e_Program			|INTEGER		 |47			|0
+	LITERAL			|L52				|ARINTEGER		 |52			|3
+	LITERAL			|L54				|ARINTEGER		 |54			|4
+	LITERAL			|L58				|ARINTEGER		 |58			|5
+	LITERAL			|L60				|ARINTEGER		 |60			|2
+	VARIABLE		|x_Program			|INTEGER		 |72			|0
+	LITERAL			|L86				|ARINTEGER		 |86			|16
+	VARIABLE		|eig_Program			|INTEGER		 |112			|0
+	LITERAL			|L116				|ARINTEGER		 |116			|52
+	VARIABLE		|str1_Program		|STRING			 |125			| 
+	VARIABLE		|str2_Program		|STRING			 |129			| 
+	LITERAL			|L133				|STRING			 |133			|"strike111"
+	LITERAL			|L137				|STRING			 |137			|"stroke"
+	VARIABLE		|str3_Program		|STRING			 |141			| 
+	VARIABLE		|f_Program			|BOOLEAN		 |173			|0
+	VARIABLE		|y_Program			|BOOLEAN		 |191			|0
+	VARIABLE		|s_Program			|INTEGER		 |204			|0
+	LITERAL			|L208				|ARINTEGER		 |208			|7
+	LITERAL			|L227				|ARINTEGER		 |227			|0
+——————————————————————————————————————————————————————————————————————————————————————————————————

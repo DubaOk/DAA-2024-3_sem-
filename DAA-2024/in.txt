@@ -1,0 +1,48 @@
+arinteger process fn(arinteger sos)
+{
+	spawn arinteger sum;
+	sum : sos + sos;
+	out sum;
+};
+Program
+{	
+	spawn boolean t;
+	t : true;
+	if (t) < writeline("Hui"); >;
+	spawn arinteger e;
+	e : (3 + 4) * (5 - 2) / 0;
+	writeline(e);
+	spawn arinteger x;
+	x : (fn(e) + 4) - (16 ~ 16);
+	writeline(x);
+	x : (3 | 4) ~ (2 & 3) + 1;
+	#writeline("x=");
+	writeline(x);
+	spawn arinteger eig;
+	eig : 0o64;
+	writeline(eig);
+	spawn string str1;
+	spawn string str2;
+	str1 : "strike111";
+	str2 : "stroke";
+	spawn string str3;
+	str3 : concat(str1, str2);
+	writeline(str3);
+	str3 : copy(str1, str2);
+	writeline(str3);
+	spawn boolean f;
+	f : comp(str1, str2);
+	writeline(f);
+	spawn boolean y;
+	y : true;
+	if(y)
+		<
+			spawn arinteger s;
+			s : 7;
+			if(s = 7)
+				<
+					writeline(s);
+				>;
+		>;
+	out 0;
+};

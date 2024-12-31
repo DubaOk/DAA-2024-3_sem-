@@ -1,0 +1,46 @@
+uninteger process func(uninteger abc)
+{
+	make uninteger sum;
+	sum : abc + abc;
+	out sum;
+};
+Program
+{
+	make boolean t;
+	t : false;
+	if (t)
+		begin
+			writeline("Hello");
+		end;
+	make uninteger e;
+	e : 15 | 5;
+	writeline(e);
+	make unintegere g;
+	g : 50;
+	make uninteger x;
+	x : (func(g) + 4) - (15 & 16);
+	writeline(x);
+	make string str1;
+	make string str2;
+	str1 : "Хуй бомжы";
+	str2 : "string2";
+	make string str3;
+	str3 : concat(str1, str2);
+	writeline(str3);
+	make boolean y;
+	y : true;
+	if(y)
+		begin
+			make uninteger s;
+			s : len(str1);
+			if(s = 7)
+				begin
+					writeline(s);
+				end;
+			writeline(str2);
+		end;
+	make uninteger f;
+	f : 0o123;
+	write(f);
+	out 0;
+};

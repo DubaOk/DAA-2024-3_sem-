@@ -1,0 +1,66 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  Check.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\Check.cpp(14,30): warning C4018: <: несоответствие типов со знаком и без знака
+  DAA-2024.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Error.cpp
+  FST.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\FST.cpp(47,16): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  GenASM.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\GenASM.cpp(28,16): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\GenASM.cpp(28,17): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\GenASM.cpp(33,22): warning C4018: <: несоответствие типов со знаком и без знака
+  GRB.cpp
+  In.cpp
+  IT.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\IT.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\IT.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+  LA.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(18,14): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(48,30): warning C4305: аргумент: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(48,30): warning C4309: аргумент: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(68,16): warning C4302: приведение типов: усечение из "const char *" к "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(180,21): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(196,24): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.cpp(196,25): warning C4309: инициализация: усечение константного значения
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\MFST.cpp(216,66): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  PN.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  SA.cpp
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,26): warning C4305: инициализация: усечение из "int" в "char"
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\LA.h(285,27): warning C4309: инициализация: усечение константного значения
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\PN.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\SA.cpp(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\SA.cpp(120,50): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\SA.cpp(68,12): warning C4101: ind2: неиспользованная локальная переменная
+D:\Labs_BSTU_sem3\DAA-2024\DAA-2024\SA.cpp(68,6): warning C4101: ind1: неиспользованная локальная переменная
+  Создание кода...
+  DAA-2024.vcxproj -> D:\Labs_BSTU_sem3\DAA-2024\ASM\DAA-2024.exe
